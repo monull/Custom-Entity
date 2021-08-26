@@ -1,6 +1,6 @@
-package io.github.xenon2452.customentity.v1_17_1.protocol
+package io.github.monull.customentity.v1_17_1.protocol
 
-import io.github.xenon2452.customentity.protocol.PacketContainer
+import io.github.monull.customentity.protocol.PacketContainer
 import net.minecraft.network.protocol.Packet
 import org.bukkit.craftbukkit.v1_17_R1.entity.CraftPlayer
 import org.bukkit.entity.Player

@@ -1,6 +1,6 @@
-package io.github.xenon2452.customentity.protocol
+package io.github.monull.customentity.protocol
 
-import io.github.xenon2452.customentity.loader.LibraryLoader
+import io.github.monull.customentity.loader.LibraryLoader
 
 fun Double.toProtocolDelta(): Int {
     return (this.coerceIn(-3.9, 3.9) * 8000.0).toInt()

@@ -1,4 +1,4 @@
-package io.github.xenon2452.customentity.loader
+package io.github.monull.customentity.loader
 
 import org.apache.commons.lang.reflect.ConstructorUtils
 import org.bukkit.Bukkit

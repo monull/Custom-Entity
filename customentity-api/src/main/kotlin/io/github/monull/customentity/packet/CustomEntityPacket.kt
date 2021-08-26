@@ -1,6 +1,6 @@
-package io.github.xenon2452.customentity.packet
+package io.github.monull.customentity.packet
 
-import io.github.xenon2452.customentity.protocol.PacketContainer
+import io.github.monull.customentity.protocol.PacketContainer
 import org.bukkit.plugin.java.JavaPlugin
 
 class CustomEntityPacket(plugin: JavaPlugin) {

@@ -1,8 +1,8 @@
-package io.github.xenon2452.customentity.plugin
+package io.github.monull.customentity.plugin
 
 import io.github.monun.kommand.kommand
-import io.github.xenon2452.customentity.packet.CustomEntityPacket
-import io.github.xenon2452.customentity.protocol.sendPacket
+import io.github.monull.customentity.packet.CustomEntityPacket
+import io.github.monull.customentity.protocol.sendPacket
 import net.kyori.adventure.text.Component.text
 import org.bukkit.entity.Entity
 import org.bukkit.entity.LivingEntity

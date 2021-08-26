@@ -1,4 +1,4 @@
-package io.github.xenon2452.customentity.protocol
+package io.github.monull.customentity.protocol
 
 import org.bukkit.Location
 import org.bukkit.Server

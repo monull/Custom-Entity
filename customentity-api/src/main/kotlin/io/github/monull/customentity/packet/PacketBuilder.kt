@@ -1,12 +1,11 @@
-package io.github.xenon2452.customentity.packet
+package io.github.monull.customentity.packet
 
 import java.io.ByteArrayOutputStream
 import java.io.DataOutput
 import java.io.DataOutputStream
 import java.io.IOException
-import com.google.common.base.Charsets;
-import io.github.xenon2452.customentity.protocol.PacketContainer
-import io.github.xenon2452.customentity.protocol.PacketSupport
+import io.github.monull.customentity.protocol.PacketContainer
+import io.github.monull.customentity.protocol.PacketSupport
 
 
 class PacketBuilder private constructor() : DataOutput {

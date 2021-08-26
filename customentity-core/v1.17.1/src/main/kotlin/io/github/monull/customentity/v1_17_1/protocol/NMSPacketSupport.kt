@@ -1,7 +1,7 @@
-package io.github.xenon2452.customentity.v1_17_1.protocol
+package io.github.monull.customentity.v1_17_1.protocol
 
-import io.github.xenon2452.customentity.protocol.PacketContainer
-import io.github.xenon2452.customentity.protocol.PacketSupport
+import io.github.monull.customentity.protocol.PacketContainer
+import io.github.monull.customentity.protocol.PacketSupport
 import io.netty.buffer.Unpooled
 import net.minecraft.network.FriendlyByteBuf
 import net.minecraft.network.protocol.game.ClientboundCustomPayloadPacket
