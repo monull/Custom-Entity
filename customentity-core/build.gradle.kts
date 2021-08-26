@@ -163,18 +163,18 @@ publishing {
 
                 developers {
                     developer {
-                        id.set("xenon245")
-                        name.set("Xenon")
-                        email.set("xenon2452@gmail.com")
-                        url.set("https://github.com/xenon245")
+                        id.set("monull")
+                        name.set("Monull")
+                        email.set("monull2452@gmail.com")
+                        url.set("https://github.com/monull")
                         roles.addAll("developer")
                         timezone.set("Asia/Seoul")
                     }
                 }
                 scm {
-                    connection.set("scm:git:git://github.com/xenon245/Custom-Entity.git")
-                    developerConnection.set("scm:git:ssh://github.com:xenon245/Custom-Entity.git")
-                    url.set("https://github.com/xenon245/Custom-Entity")
+                    connection.set("scm:git:git://github.com/monull/Custom-Entity.git")
+                    developerConnection.set("scm:git:ssh://github.com:monull/Custom-Entity.git")
+                    url.set("https://github.com/monull/Custom-Entity")
                 }
             }
         }
