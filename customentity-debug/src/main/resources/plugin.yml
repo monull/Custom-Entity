@@ -1,0 +1,8 @@
+name: CustomEntity
+main: io.github.xenon2452.customentity.plugin.CustomEntityPlugin
+version: 1.0
+api-version: '1.17'
+libraries:
+  - org.jetbrains.kotlin:kotlin-stdlib:1.5.20
+  - org.jetbrains.kotlin:kotlin-reflect:1.5.20
+  - io.github.monun:kommand:2.6.4
