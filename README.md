@@ -1,7 +1,7 @@
 # Custom-Entity-Bukkit(for 1.17.1)
 
-![Maven Central](https://img.shields.io/maven-central/v/io.github.xenon245/customentity)
-![GitHub](https://img.shields.io/github/license/xenon245/custom-entity)
+![Maven Central](https://img.shields.io/maven-central/v/io.github.monull/customentity)
+![GitHub](https://img.shields.io/github/license/monull/custom-entity)
 
 ### Paper용 CustomEntity 라이브러리
 
@@ -27,7 +27,7 @@ repositories {
 
 ```kotlin
 dependencies { 
-    implementation("io.github.xenon245:customentity-api:<version>")
+    implementation("io.github.monull:customentity-api:<version>")
 }
 ```
 
@@ -38,7 +38,7 @@ name: ...
 version: ...
 main: ...
 libraries:
-  - io.github.xenon245:customentity:<version>
+  - io.github.monull:customentity:<version>
 ```
 
 ---
