@@ -1,4 +1,4 @@
-rootProject.name = "CustomEntity"
+rootProject.name = "customentity"
 
 val prefix = "customentity"
 val core = "$prefix-core"

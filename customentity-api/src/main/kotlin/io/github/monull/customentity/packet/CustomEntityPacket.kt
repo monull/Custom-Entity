@@ -4,7 +4,7 @@ import io.github.monull.customentity.protocol.PacketContainer
 import org.bukkit.plugin.java.JavaPlugin
 
 class CustomEntityPacket(plugin: JavaPlugin) {
-    private val channel = "customentity:1.0"
+    private val channel = "customentity:custom"
 
     private val register = 0
 
